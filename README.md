@@ -16,7 +16,7 @@ The header contains the company name and navigation menu. To update:
 1. **Company Name**
 ```html
 <!-- Located in header section -->
-<h1 class="text-2xl font-bold text-blue-600">DebtCollect Pro</h1>
+<h1 class="text-2xl font-bold text-blue-600">Commercial Debt Collection Agency</h1>
 ```
 Simply replace "DebtCollect Pro" with your company name.
 
